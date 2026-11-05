@@ -1,0 +1,4 @@
+LIBRARY MandelbrotAsm
+EXPORTS
+    RenderFractalFragment
+    MandelbrotVectorKernel

@@ -1,0 +1,3 @@
+LIBRARY MandelbrotHighLevel
+EXPORTS
+    RenderFractalFragment
